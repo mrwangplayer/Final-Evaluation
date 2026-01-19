@@ -13,7 +13,9 @@ It explores themes of trauma and loneliness through an observer-based narrative 
 The goal is to combine storytelling with GUI programming, audio, and event-driven design.
 
 How to run the program and Installation or setup instructions:
-make a file named SilentConvent and add all of the folders and files that posted on repository
+make a file named SilentConvent and add folders src and assets in assets create folders images and audio and in images create folder Nun portraits 
+in src folder add folders scene and silentconvent.
+
 You can run the program through firstly launching build.bat
 then run.bat or you can just open folder and files with visual studio code and run the main file.
 
